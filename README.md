@@ -64,6 +64,9 @@ Bruteforce com medusa
 
 medusa -h ip -U smb_users.txt -P psenhas_spray.txt -M smbnt -t 2 -T 50
 
+<img width="1250" height="724" alt="image" src="https://github.com/user-attachments/assets/92b2f549-32a7-4d5e-b48c-ac6328e80d4d" />
+
+
 Conectando SMB
 
 smbclient -L //192.168.56.101 -U msfadmin
